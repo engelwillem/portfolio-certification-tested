@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="300" viewBox="0 0 420 300">
+  <defs>
+    <style>
+      .wm { fill: rgba(0,0,0,0.10); font: 700 22px system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+      .sub { fill: rgba(0,0,0,0.08); font: 600 14px system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <g transform="rotate(-28 210 150)">
+    <text class="wm" x="40" y="150">Engel Willem</text>
+    <text class="sub" x="40" y="175">Vibe Coders · Sales Growth &amp; SaaS</text>
+  </g>
+</svg>
